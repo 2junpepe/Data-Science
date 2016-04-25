@@ -1,0 +1,1 @@
+http://api.openweathermap.org/pollution/v1/o3/0.0,10.0/current.json?appid={3d40c6a36bc3a271792f52f6bfd61548}
